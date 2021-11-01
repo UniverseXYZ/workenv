@@ -1,4 +1,4 @@
-# workenv# Install aws cli v2 
+# Install aws cli v2 
 https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
 
 # setup aws profile 
